@@ -1,0 +1,19 @@
+# Secrets and credentials
+.env
+.env.*
+*.key
+*.pem
+credentials*.json
+secrets*
+
+# Large or raw data files
+*.pbix
+*.zip
+*.csv.gz
+data/raw/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
