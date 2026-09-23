@@ -12,5 +12,5 @@ Each project below has its own write-up: the problem, what I built, the tools, a
 
 ## Contact
 
-- LinkedIn: (add link)
+- LinkedIn: [linkedin.com/in/mjgarofalo](https://www.linkedin.com/in/mjgarofalo/)
 - GitHub: [joshgarofalo-cpu](https://github.com/joshgarofalo-cpu)
