@@ -1,4 +1,4 @@
-﻿# Orbit
+# Orbit
 
 A personal life management web app that turns habits, goals, and tasks into a Destiny 2-style character sheet, themed with real game assets from the Bungie API.
 
