@@ -1,4 +1,4 @@
-# Orbit
+﻿# Orbit
 
 A personal life management web app that turns habits, goals, and tasks into a Destiny 2-style character sheet, themed with real game assets from the Bungie API.
 
@@ -45,4 +45,12 @@ Claude Code (AI-assisted development), React, TypeScript, Tailwind CSS, Supabase
 
 Open the [live site](https://orbit-kappa-five.vercel.app). To see the Destiny 2 theming, open the **Sync** tab and enter a Bungie name. The source code is private for now.
 
-<!-- Screenshots go in images/ and are linked here. -->
+## Screenshots
+
+**Director (desktop):** the home screen, themed with my Destiny 2 emblem
+
+![Orbit Director screen on desktop](images/director-desktop.png)
+
+**Sync:** email sign-in for cross-device sync, and a connected Destiny 2 Guardian
+
+![Orbit Sync screen with a connected Guardian](images/sync-guardian.png)
